@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "24.x"
+  },
   "devDependencies": {
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.8",
